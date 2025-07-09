@@ -1,0 +1,7 @@
+train: C:\Users\myins\Desktop\LEARNING\YOLOv11\train\images
+val: C:\Users\myins\Desktop\LEARNING\YOLOv11\val\images
+
+
+nc: 16
+names: ['1', 'container_number', 'cubic', 'cubic.cuft', 'cubic.cum', 'cum.cuft', 'gross', 'gross.kg', 'gross.lbs', 'iso_code', 'net', 'net.kg', 'net.lbs', 'tare', 'tare.kg', 'tare.lbs']
+
